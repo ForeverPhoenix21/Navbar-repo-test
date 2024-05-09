@@ -1,0 +1,33 @@
+/* 
+Start of the Navigation bar
+*/
+
+.navbar-container {
+  border: dotted 1px red;
+  display: flex;
+  flex-direction: flex-start;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.logo {
+  border: dotted 1px purple;
+}
+.link-container {
+  border: solid 1px blue;
+  width: auto;
+  height: auto;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.link-container ul {
+  border: solid 1px red;
+  display: flex;
+  justify-content: space-around;
+  padding: 1px;
+  gap: 2rem;
+  list-style-type: none;
+}
