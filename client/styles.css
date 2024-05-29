@@ -12,9 +12,11 @@ Start of the Navigation bar
   padding: 1rem;
 }
 
-.logo {
+.site-logo {
   border: dotted 1px purple;
 }
+
+
 .link-container {
   border: solid 1px blue;
   width: auto;
